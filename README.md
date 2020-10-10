@@ -13,3 +13,4 @@ Cara penggunaan simpel:
 *Nyalakan sound untuk mendapatkan pengalaman terbaik
 created with:
 HTML, CSS, JS ( library: bootstrap, fontawesome, jQuery )
+now in github!
