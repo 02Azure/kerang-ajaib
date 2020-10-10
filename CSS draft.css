@@ -1,0 +1,73 @@
+@import "https://fonts.googleapis.com/css2?family=Slackey&display=swap";
+
+*{
+	font-family:Slackey,"Comic Sans MS";
+}
+
+body{
+	background-image:url(https://lh3.googleusercontent.com/pw/ACtC-3fX3hGy8SzPo_zYJ1Gi-JCvjk5G93pJT9-zh7x9Gg70pLx-lGVe1G7ZjjDpeuBVgXoTVtoookOwDE_rElaPCSaGSd_B1xeegao6_9u-KSUpYOiFIraJ8SI0vRjqti0JxNY0oJzjK7r9bo923n50QX9U=w997-h524);
+    background-repeat:no-repeat;
+    background-size:cover;
+	background-attachment:fixed;
+}
+#quote-box{
+    position:relative;
+	background-image:url(https://lh3.googleusercontent.com/pw/ACtC-3eGmJzsPPuI8lK59yGa6OZj5t40vVeaJ8PqKAfwIu-qPmEycrVTZ-Lze0sutDDFMoWXBJKqSIkadr9BZ6pbFh9NEy0ljc7E5IQXbl4le2PYSbPxawpzDDJTr9pf3Ej13PE6wVBjeQzD74QYCNFl15Sx=w648-h592);
+	background-repeat:no-repeat;
+    background-size:cover;
+	margin:8vh auto 0 auto;
+	border: solid 3px darkmagenta;
+	min-height:350px;
+	max-width:500px;
+	min-width:400px;
+}
+#input-q{
+	margin:15px 0;
+	width:85%;
+}
+
+#new-quote{
+	background-color:rgba(237, 255, 255, 0.9);
+}
+
+#answer{
+	width:85%;
+	background-color:rgba(237, 255, 255, 0.6);
+	margin:15px auto 0 auto;
+}
+
+#text{
+	color:darkmagenta;
+}
+
+.button{
+	position:absolute;
+	right:0;
+	bottom:0;
+	background-color:rgb(237, 255, 255);
+	width:30px;
+}
+.slide-show{
+	margin:10px auto 0px auto;
+	padding:10px;
+	max-width:500px;
+	background-color:rgba(237, 255, 255, 0.65);
+	display:grid;
+	grid-template-columns:1fr 170px;
+	grid-gap:20px;
+	align-items:center;
+}
+
+.testimony-detail h3{
+    font-size: 1.25em;
+	color: darkblue;
+}
+
+.prof-pic{
+	max-height: 170px;
+}
+
+footer{
+	margin-top:40px;
+	color:white;
+}
